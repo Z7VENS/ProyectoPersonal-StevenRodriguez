@@ -11,7 +11,7 @@ const CartDrawer = ({ isOpen, onClose, items, onRemove }) => {
   };
 
   const enviarPedidoWhatsApp = () => {
-    const telefono = "506XXXXXXXX"; // Reemplaza con tu número real
+    const telefono = "50683243102"; 
     
     // Formatear lista de productos
     const listaProductos = items.map(item => 
