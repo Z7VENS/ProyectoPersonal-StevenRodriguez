@@ -129,7 +129,7 @@ function App() {
         )}
       </main>
 
-      {/* 5. SOBRE NOSOTROS (Reemplaza a ContactForm/Únete) */}
+     
       <AboutSection />
       <Testimonials />
       <ContactForm />
