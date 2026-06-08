@@ -1,0 +1,50 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "titulo": "Manto 'Tiger' Gi",
+      "categoria": "Gi",
+      "descripcion": "Edición especial con bordados de alta densidad. 450 GSM pearl weave.",
+      "galeria": [
+                "https://www.mantoshop.eu/settings.php?getAttachmentp=32_3698_1ceb6f4664ea9e13afd5fec593b65c03",
+        "https://www.mantoshop.eu/hpeciai/9835e915f8f539d6ea1479572777facc/eng_pm_MANTO-TIGER%60S-TAIL-BJJ-Gi-3698_8.webp",
+        "https://www.mantoshop.eu/hpeciai/fdc3863cf0d44f682be4647e88504c1c/eng_pm_MANTO-TIGER%60S-TAIL-BJJ-Gi-3698_9.webp",
+        "https://www.mantoshop.eu/hpeciai/638b7c95609433a748c06997f37d1639/eng_pm_MANTO-TIGER%60S-TAIL-BJJ-Gi-3698_10.webp",
+        "https://www.mantoshop.eu/hpeciai/7951a1034e21d92ecb4bdc11617c3fea/eng_pm_MANTO-TIGER%60S-TAIL-BJJ-Gi-3698_14.webp"
+      ],
+      "imagen": "https://www.mantoshop.eu/hpeciai/25d29cc91cab4421a58686cedfdbbd30/eng_pm_MANTO-TIGER%60S-TAIL-BJJ-Gi-3698_15.webp",
+      "especificaciones": ["450 GSM", "Pantalones de 10oz", "Refuerzos triples"],
+      "precio": "₡85,000"
+    },
+    {
+      "id": 2,
+      "titulo": "MANTO rashguard FLUX",
+      "categoria": "No-Gi",
+      "descripcion": "Camiseta de manga corta MANTO Ajuste cómodo y ceñido al cuerpo",
+      "galeria": [
+                "https://www.mantoshop.eu/hpeciai/9c7394d2f9257f75b7eb09999a76326a/eng_pm_MANTO-rashguard-FLUX-3853_3.webp",
+        "https://www.mantoshop.eu/hpeciai/7eb211b16b00349e9e6f4ca4888d52dd/eng_pm_MANTO-rashguard-FLUX-3853_5.webp",
+        "https://www.mantoshop.eu/hpeciai/d05d0b506ccd20d9f222f6081e635ca9/eng_pm_MANTO-rashguard-FLUX-3853_4.webp",
+        "https://www.mantoshop.eu/hpeciai/51c66d3278366f5998c1a1f226fbea94/eng_pm_MANTO-rashguard-FLUX-3853_6.webp"
+      ],
+      "imagen": "https://www.mantoshop.eu/hpeciai/51c66d3278366f5998c1a1f226fbea94/eng_pm_MANTO-rashguard-FLUX-3853_6.webp",
+      "especificaciones": ["84% polyester", "16% elastan"],
+      "precio": "₡25000"
+    },
+     {
+      "id": 3,
+      "titulo": "MANTO slides VARSITY",
+      "categoria": "Accesorios",
+      "descripcion": "Sandalias sin cordones de alta calidad",
+      "galeria": [
+                "https://www.mantoshop.eu/hpeciai/c6ae94047a849983cbe5fb8bae1b3c53/eng_pm_MANTO-slides-VARSITY-3692_1.webp",
+        "https://www.mantoshop.eu/hpeciai/515da5adf2f7474f6cf749df03f4f389/eng_pm_MANTO-slides-VARSITY-3692_3.webp",
+        "https://www.mantoshop.eu/hpeciai/c16c001621eba38ea9df32faaf2c83a5/eng_pm_MANTO-slides-VARSITY-3692_2.webp",
+        "https://www.mantoshop.eu/hpeciai/5d0d0caefd9ab2ec234cb9b6e295085f/eng_pm_MANTO-slides-VARSITY-3692_4.webp"
+      ],
+      "imagen": "https://www.mantoshop.eu/hpeciai/5d0d0caefd9ab2ec234cb9b6e295085f/eng_pm_MANTO-slides-VARSITY-3692_4.webp",
+      "especificaciones": ["Made of EVA foam"],
+      "precio": "₡9500"
+    }
+  ]
+}
