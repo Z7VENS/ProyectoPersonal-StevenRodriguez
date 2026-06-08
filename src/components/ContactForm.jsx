@@ -7,7 +7,7 @@ const ContactForm = () => {
     mensaje: ''
   });
 
-  // Estado para manejar los errores de validación
+ 
   const [errores, setErrores] = useState({});
   
   // Estado para el ciclo de vida del envío
