@@ -145,7 +145,7 @@ function App() {
           </div>
           
           <a 
-            href="https://wa.me/506XXXXXXXX" 
+            href="https://wa.me/50683243102" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-white text-black font-black px-12 py-5 rounded-2xl uppercase text-[10px] tracking-[0.2em] hover:bg-red-600 hover:text-white transition-all shadow-[0_20px_40px_rgba(255,255,255,0.05)] active:scale-95"
