@@ -21,7 +21,6 @@ const testimoniosData = [
 const TestimonialCard = ({ testimonio, isPlaying, onTogglePlay }) => {
   const audioRef = useRef(null);
 
-  // Efecto reactivo: Si 'isPlaying' cambia, reproducimos o pausamos
   useEffect(() => {
     if (isPlaying) {
       audioRef.current.play().catch(e => console.log("Error al reproducir:", e));
