@@ -26,17 +26,8 @@ const Hero = ({ titulo, subtitulo }) => {
           {subtitulo || "Distribuidor oficial de las mejores marcas de BJJ y MMA en Costa Rica."}
         </p>
         
-        <div className="mt-12 flex flex-col md:flex-row gap-6 justify-center">
-          <button 
-            onClick={() => document.getElementById('productos').scrollIntoView({ behavior: 'smooth' })}
-            className="bg-orange-500 hover:bg-orange-600 text-white px-10 py-5 rounded-full font-black uppercase tracking-widest transition-all transform hover:scale-105 shadow-[0_0_30px_rgba(249,115,22,0.4)]"
-          >
-            Ver Armadura
-          </button>
-          <button className="bg-white/10 backdrop-blur-md border border-white/20 hover:bg-white/20 text-white px-10 py-5 rounded-full font-black uppercase tracking-widest transition-all">
-            Atletas UMBRA
-          </button>
-        </div>
+        
+        
       </div>
 
       {/* Indicador de Scroll Decorativo */}
@@ -47,5 +38,4 @@ const Hero = ({ titulo, subtitulo }) => {
   );
 };
 
-// Exportación por defecto obligatoria para Vite
 export default Hero;
